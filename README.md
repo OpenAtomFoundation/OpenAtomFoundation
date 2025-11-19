@@ -80,7 +80,7 @@
 | openInula         | 筹备   | 前端框架         | https://gitee.com/openInula/inula                                         |
 | Kurator           | 筹备   | 云原生          | https://github.com/kurator-dev/kurator                                    |
 | cantian 数据库存储引擎   | 筹备   | 数据库, 数据库集群架构 | https://gitee.com/openeuler/cantian                                       |
-| 小满                | 筹备   | 操作系统         | https://atomgit.com/easyxmen                                              |
+| 开源小满EasyXMen安全车控操作系统                | 筹备   | 操作系统         | https://atomgit.com/easyxmen                                              |
 | EasyDarwin        | 筹备   |              |                                                                           |
 | ourBMC            | 筹备   | 开源硬件         |                                                                           |
 | DKapture          | 筹备   |              |                                                                           |
