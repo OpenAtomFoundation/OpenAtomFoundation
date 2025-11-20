@@ -58,10 +58,10 @@
 | LLMOne            | 孵化   | 人工智能         |  https://github.com/EM-GeekLab/LLMOne  |
 | M-Robots          | 孵化   | 人形机器人        | https://atomgit.com/m-robots  |
 | 蓝河OS内核            | 孵化   | 操作系统         |  https://gitcode.com/vivoblueos_moved/kernel |
-| AOG-CHAT          | 孵化   | 人工智能         |                                                                           |
-| wuyue             | 孵化   | 量子计算         |                                                                           |
-| FasCAE            | 孵化   | 工业软件         |                                                                           |
-| CPQC TorchKit     | 孵化   |              |                                                                           |
+| AOG-CHAT          | 孵化   | 人工智能  | https://atomgit.com/deepin123/aog-chat  |
+| wuyue             | 孵化   | 量子计算  | https://gitee.com/openwuyue |
+| FasCAE            | 孵化   | 工业软件 | https://atomgit.com/fastcaecodebase |
+| CPQC TorchKit     | 孵化   |      | https://github.com/qboson/kaiwu-pytorch-plugin |
 
 ### 孵化筹备期
 
