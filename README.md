@@ -42,7 +42,7 @@
 | OpenTenBase       | 孵化   | 数据库          | https://github.com/Tencent/TBase                                          |
 | NXROS             | 孵化   | 人工智能与机器人     | https://atomgit.com/nxrobo                                                |
 | Dora SSR          | 孵化   | 游戏引擎         | https://atomgit.com/ippclub/Dora-SSR                                      |
-| Onps开源网络协议栈       | 孵化   | 网络通信         | https://gitee.com/Neo-T/open-npstack https://github.com/Neo-T/OpenNPStack |
+| Onps开源网络协议栈       | 孵化   | 网络通信         | https://gitee.com/Neo-T/open-npstack |
 | GeniusAI算法研发平台    | 孵化   | 人工智能与机器人     | https://atomgit.com/geniusaiplatform                                      |
 | openKylin         | 孵化   | 操作系统         | https://gitee.com/openkylin/                                              |
 | OpenLinkSaas      | 孵化   | 软件工具         | https://gitcode.com/linksaas/                                         |
