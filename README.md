@@ -59,9 +59,11 @@
 | M-Robots          | 孵化   | 人形机器人        | https://atomgit.com/m-robots  |
 | 蓝河OS内核            | 孵化   | 操作系统         |  https://gitcode.com/vivoblueos_moved/kernel |
 | AOG-CHAT          | 孵化   | 人工智能  | https://atomgit.com/deepin123/aog-chat  |
+| ourBMC            | 筹备   | 开源硬件  | https://gitee.com/ourbmc  |
 | wuyue             | 孵化   | 量子计算  | https://gitee.com/openwuyue |
 | FasCAE            | 孵化   | 工业软件 | https://atomgit.com/fastcaecodebase |
 | CPQC TorchKit     | 孵化   |      | https://github.com/qboson/kaiwu-pytorch-plugin |
+| DKapture          | 筹备   |              |  https://github.com/DKapture/libdkapture  |
 
 ### 孵化筹备期
 
@@ -79,6 +81,5 @@
 | Kurator           | 筹备   | 云原生          | https://github.com/kurator-dev/kurator                                    |
 | cantian 数据库存储引擎   | 筹备   | 数据库, 数据库集群架构 | https://gitee.com/openeuler/cantian                                       |
 | 开源小满EasyXMen安全车控操作系统                | 筹备   | 操作系统         | https://atomgit.com/easyxmen                                              |
-| EasyDarwin        | 筹备   |              |                                                                           |
-| ourBMC            | 筹备   | 开源硬件         |                                                                           |
-| DKapture          | 筹备   |              |                                                                           |
+| EasyDarwin        | 筹备   |              |  https://github.com/easydarwin  |
+
