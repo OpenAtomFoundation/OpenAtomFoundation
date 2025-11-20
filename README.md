@@ -54,7 +54,7 @@
 | IvorySQL          | 孵化   | 数据库          | https://github.com/IvorySQL/IvorySQL                                      |
 | Go-IoT            | 孵化   | 操作系统         | https://gitee.com/pychfarm_admin/go-iot-platform                          |
 | 海智若康大模型（HalerockHealth）           | 孵化   | 人工智能         | https://atomgit.com/inspurhairuo/HaiRuo-72B-Health                                                                          |
-| TOMs              | 孵化   |              |                                                                           |
+| TOMs              | 孵化   |   https://github.com/ganweisoft/Gateway    |                                                                           |
 | LLMOne            | 孵化   | 人工智能         |                                                                           |
 | M-Robots          | 孵化   | 人形机器人        | https://atomgit.com/m-robots                                              |
 | 蓝河OS内核            | 孵化   | 操作系统         |  https://gitcode.com/vivoblueos_moved/kernel                                                                        |
