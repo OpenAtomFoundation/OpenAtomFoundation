@@ -57,7 +57,7 @@
 | TOMs              | 孵化   |       |   https://github.com/ganweisoft/Gateway  |
 | LLMOne            | 孵化   | 人工智能         |  https://github.com/EM-GeekLab/LLMOne  |
 | M-Robots          | 孵化   | 人形机器人        | https://atomgit.com/m-robots  |
-| 蓝河OS内核            | 孵化   | 操作系统         |  https://gitcode.com/vivoblueos_moved/kerne |
+| 蓝河OS内核            | 孵化   | 操作系统         |  https://gitcode.com/vivoblueos_moved/kernel |
 | AOG-CHAT          | 孵化   | 人工智能         |                                                                           |
 | wuyue             | 孵化   | 量子计算         |                                                                           |
 | FasCAE            | 孵化   | 工业软件         |                                                                           |
