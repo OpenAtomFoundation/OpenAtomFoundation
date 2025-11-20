@@ -15,12 +15,12 @@
 
 | 项目名称            | 项目阶段 | 项目领域         | 项目代码仓库                                                                    |
 |-------------------|------|--------------|---------------------------------------------------------------------------|
-| OpenHarmony       | 孵化   | 操作系统         | https://gitee.com/openharmony                                             |
+| OpenHarmony       | 孵化   | 操作系统         | https://gitcode.com/openharmony                                             |
 | XuperCore         | 孵化   | 区块链          | https://atomgit.com/OpenAtomFoundation/xupercore                          |
 | PikiwiDB          | 孵化   | 数据库          | https://github.com/OpenAtomFoundation/pika                                |
 | TobudOS           | 孵化   | 操作系统         | https://atomgit.com/tobudos                                               |
 | UBML              | 孵化   | 程序开发         | https://atomgit.com/ubml                                                  |
-| KWDB              | 孵化   | 数据库          | https://gitee.com/kwdb/kwdb                                               |
+| KWDB              | 孵化   | 数据库          | https://gitcode.com/kwdb/kwdb                                               |
 | hapjs             | 孵化   | 程序开发         | https://atomgit.com/hapjs                                                 |
 | RT-TKern          | 孵化   | 操作系统         | https://github.com/RT-Thread/rtthread-nano                                |
 | openEuler         | 孵化   | 操作系统         | https://gitee.com/openeuler                                               |
@@ -45,7 +45,7 @@
 | Onps开源网络协议栈       | 孵化   | 网络通信         | https://gitee.com/Neo-T/open-npstack https://github.com/Neo-T/OpenNPStack |
 | GeniusAI算法研发平台    | 孵化   | 人工智能与机器人     | https://atomgit.com/geniusaiplatform                                      |
 | openKylin         | 孵化   | 操作系统         | https://gitee.com/openkylin/                                              |
-| OpenLinkSaas      | 孵化   | 软件工具         | https://atomgit.com/openlinksaas/                                         |
+| OpenLinkSaas      | 孵化   | 软件工具         | https://gitcode.com/linksaas/                                         |
 | EasyAda微内核        | 孵化   | 操作系统         | https://atomgit.com/puhua/easyAda/                                        |
 | Codeya IDE        | 孵化   | 软件工具         | https://github.com/linuxdeepin/deepin-unioncode                           |
 | OpenIBC           | 孵化   | 区块链          | https://atomgit.com/openibc                                               |
