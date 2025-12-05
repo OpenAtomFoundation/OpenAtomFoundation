@@ -13,7 +13,7 @@
 
 | 项目名称            | 项目阶段 | 项目领域         | 项目代码仓库                                                                    |
 |-------------------|------|--------------|---------------------------------------------------------------------------|
-| OpenHarmony       | 孵化   | 操作系统         | https://gitcode.com/openharmony                           |
+| OpenHarmony       | 孵化   | 操作系统         | https://atomgit.com/openharmony                           |
 | openEuler         | 孵化   | 操作系统         | https://atomgit.com/openeuler                                               |
 
 
@@ -23,7 +23,6 @@
 
 | 项目名称            | 项目阶段 | 项目领域         | 项目代码仓库                                                                    |
 |-------------------|------|--------------|---------------------------------------------------------------------------|
-| OpenHarmony       | 孵化   | 操作系统         | https://gitcode.com/openharmony                                             |
 | XuperCore         | 孵化   | 区块链          | https://atomgit.com/OpenAtomFoundation/xupercore                          |
 | PikiwiDB          | 孵化   | 数据库          | https://github.com/OpenAtomFoundation/pika                                |
 | TobudOS           | 孵化   | 操作系统         | https://atomgit.com/tobudos                                               |
@@ -31,7 +30,6 @@
 | KWDB              | 孵化   | 数据库          | https://gitcode.com/kwdb/kwdb                                               |
 | hapjs             | 孵化   | 程序开发         | https://atomgit.com/hapjs                                                 |
 | RT-TKern          | 孵化   | 操作系统         | https://github.com/RT-Thread/rtthread-nano                                |
-| openEuler         | 孵化   | 操作系统         | https://gitee.com/openeuler                                               |
 | 狮偶                | 孵化   | 程序开发         | https://atomgit.com/openblock                                             |
 | Vearch            | 孵化   | 数据库          | https://atomgit.com/vearch                                                |
 | 铜锁/Tongsuo        | 孵化   | 信息安全         | https://atomgit.com/tongsuo/Tongsuo                                       |
