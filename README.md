@@ -13,8 +13,8 @@
 
 | 项目名称            | 项目阶段 | 项目领域         | 项目代码仓库                                                                    |
 |-------------------|------|--------------|---------------------------------------------------------------------------|
-| OpenHarmony       | 孵化   | 操作系统         | https://atomgit.com/openharmony                           |
-| openEuler         | 孵化   | 操作系统         | https://atomgit.com/openeuler                                               |
+| OpenHarmony       | 毕业   | 操作系统         | https://atomgit.com/openharmony                           |
+| openEuler         | 毕业   | 操作系统         | https://atomgit.com/openeuler                                               |
 
 
 ### 孵化期项目
