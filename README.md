@@ -35,7 +35,7 @@
 | 14 | SmartIDE | 软件工具 | [AtomGit](https://atomgit.com/smartide-org) / [Gitee](https://gitee.com/smartide) / [GitHub](https://github.com/OpenAtomFoundation/SmartIDE) |
 | 15 | miniweblink | 浏览器内核 | [AtomGit](https://atomgit.com/OpenAtomFoundation/miniblink57) / [Gitee](https://gitee.com/OpenAtom-Admin/miniblink57) |
 | 16 | GreatSQL | 数据库 | [Gitee](https://gitee.com/GreatSQL/GreatSQL) / [GitHub](https://github.com/GreatSQL) |
-| 17 | OpenTenBase | 数据库 | [AtomGit](https://atomgit.com/opentenbase-org) / [GitHub](https://github.com/opentenbase) |
+| 17 | OpenTenBase | 数据库 | [AtomGit](https://atomgit.com/opentenbase) / [GitHub](https://github.com/opentenbase) |
 | 18 | openKylin | 操作系统 | [AtomGit](https://atomgit.com/openkylin) / [Gitee](https://gitee.com/openkylin) / [GitHub](https://github.com/openkylin) |
 | 19 | 如意玲珑/Linyaps | 软件工具 | [AtomGit](https://atomgit.com/linyaps) / [GitHub](https://github.com/linuxdeepin/linglong) |
 | 20 | QUICKPOOL | 软件工具 | [AtomGit](https://atomgit.com/quickpool) |
