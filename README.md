@@ -8,10 +8,10 @@
 
 ### 毕业项目
 
-| <div style="width: 250px">项目名称</div> | <div style="width: 100px">技术领域</div> | <div style="width: 250px">代码仓库</div> |
-| :--- | :--- | :--- |
-| 开源鸿蒙/OpenHarmony | 操作系统 | [AtomGit](https://atomgit.com/openharmony) / [Gitee](https://gitee.com/openharmony) / [GitHub](https://github.com/openharmony) |
-| 开源欧拉/openEuler | 操作系统 | [AtomGit](https://atomgit.com/openeuler) / [Gitee](https://gitee.com/openeuler) / [GitHub](https://github.com/openeuler-mirror) |
+| 序号 | <div style="width: 250px">项目名称</div> | <div style="width: 100px">技术领域</div> | <div style="width: 250px">代码仓库</div> |
+| :---:| :--- | :--- | :--- |
+| 1 | 开源鸿蒙/OpenHarmony | 操作系统 | [AtomGit](https://atomgit.com/openharmony) / [Gitee](https://gitee.com/openharmony) / [GitHub](https://github.com/openharmony) |
+| 2 | 开源欧拉/openEuler | 操作系统 | [AtomGit](https://atomgit.com/openeuler) / [Gitee](https://gitee.com/openeuler) / [GitHub](https://github.com/openeuler-mirror) |
 
 ### 孵化期项目
 
