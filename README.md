@@ -39,7 +39,7 @@
 | 18 | openKylin | 操作系统 | [AtomGit](https://atomgit.com/openkylin) / [Gitee](https://gitee.com/openkylin) / [GitHub](https://github.com/openkylin) |
 | 19 | 如意玲珑/Linyaps | 软件工具 | [AtomGit](https://atomgit.com/linyaps) / [GitHub](https://github.com/linuxdeepin/linglong) |
 | 20 | QUICKPOOL | 软件工具 | [AtomGit](https://atomgit.com/quickpool) |
-| 21 | OpenNJet | 云原生 | [AtomGit](https://atomgit.com/OpenNJet/OpenNJet) / [GitHub](https://github.com/OpenNJet/OpenNJet) |
+| 21 | OpenNJet | 云原生 | [AtomGit](https://atomgit.com/OpenNJet/OpenNJet) / [Gitee](https://gitee.com/njet-rd/njet) / [GitHub](https://github.com/OpenNJet/OpenNJet) |
 | 22 | Onps开源网络协议栈 | 网络通信 | [AtomGit](https://atomgit.com/onps/open-npstack) / [Gitee](https://gitee.com/neo-t/open-npstack) |
 | 23 | PYSTOR DBS | 软件工具 | [AtomGit](https://atomgit.com/pystor-dbs) / [GitHub](https://github.com/zettastor/dbs) |
 | 24 | KWDB | 数据库 | [AtomGit](https://atomgit.com/kwdb) / [Gitee](https://gitee.com/kwdb) / [GitHub](https://github.com/KWDB/KWDB) |
@@ -84,6 +84,8 @@
 | 9 | cantian数据库存储引擎 | 数据库 | [AtomGit](https://atomgit.com/Cantian) / [Gitee](https://gitee.com/openeuler/cantian) |
 | 10 | 开源小满EasyXMen安全车控操作系统 | 操作系统 | [AtomGit](https://atomgit.com/easyxmen) |
 | 11 | EasyDarwin | 软件工具 | [GitHub](https://github.com/easydarwin) |
+| 12 | 电鸿物联操作系统 | 操作系统 | [AtomGit](https://atomgit.com/power-iot) | 
+| 13 | Open supOS | 工业软件 | [Gitee](https://gitee.com/supos-community-edition) |
 
 ### 已归档项目
 
