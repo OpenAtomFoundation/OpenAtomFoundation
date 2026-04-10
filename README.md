@@ -66,6 +66,8 @@
 | 45 | 五岳纪元 | 量子计算 | [Gitee](https://gitee.com/openwuyue) |
 | 46 | OurBMC | 操作系统 | [AtomGit](https://atomgit.com/ourbmc) / [Gitee](https://gitee.com/ourbmc) |
 | 47 | DKapture | 软件工具 | [AtomGit](https://atomgit.com/DKapture) / [GitHub](https://github.com/DKapture) |
+| 48 | 电鸿物联操作系统 | 操作系统 | [AtomGit](https://atomgit.com/power-iot) | 
+| 49 | Open supOS | 工业软件 | [Gitee](https://gitee.com/supos-community-edition) |
 
 ### 孵化筹备期
 
@@ -84,8 +86,7 @@
 | 9 | cantian数据库存储引擎 | 数据库 | [AtomGit](https://atomgit.com/Cantian) / [Gitee](https://gitee.com/openeuler/cantian) |
 | 10 | 开源小满EasyXMen安全车控操作系统 | 操作系统 | [AtomGit](https://atomgit.com/easyxmen) |
 | 11 | EasyDarwin | 软件工具 | [GitHub](https://github.com/easydarwin) |
-| 12 | 电鸿物联操作系统 | 操作系统 | [AtomGit](https://atomgit.com/power-iot) | 
-| 13 | Open supOS | 工业软件 | [Gitee](https://gitee.com/supos-community-edition) |
+| 12 | OpenLET全尺寸人形真机数据集 | 具身智能 | [AtomGit](https://atomgit.com/lejurobot) |
 
 ### 已归档项目
 
