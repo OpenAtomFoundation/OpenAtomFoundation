@@ -20,7 +20,7 @@
 | 序号 | <div style="width: 250px">项目名称</div> | <div style="width: 100px">技术领域</div> | <div style="width: 250px">代码仓库</div> |
 | :---: | :--- | :--- | :--- |
 | 1 | XuperCore | 区块链 | [AtomGit](https://atomgit.com/openatomfoundation/xupercore) / [GitHub](https://github.com/OpenAtomFoundation/xupercore) |
-| 2 | PikiwiDB | 数据库 | [AtomGit](https://atomgit.com/openatomfoundation/pikiwidb) / [GitHub](https://github.com/OpenAtomFoundation/pikiwidb) |
+| 2 | PikiwiDB | 数据库 | [AtomGit](https://atomgit.com/pikiwidb) / [GitHub](https://github.com/OpenAtomFoundation/pikiwidb) |
 | 3 | hapjs | 开发框架 | [AtomGit](https://atomgit.com/hapjs-org) / [GitHub](https://github.com/hapjs-platform) |
 | 4 | TobudOS | 操作系统 | [AtomGit](https://atomgit.com/tobudos) |
 | 5 | 狮偶 | 开发框架 | [AtomGit](https://atomgit.com/duzc2/roarlang) / [Gitee](https://gitee.com/openblock) |
