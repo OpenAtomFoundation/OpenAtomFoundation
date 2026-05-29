@@ -86,7 +86,7 @@
 | 9 | cantian数据库存储引擎 | 数据库 | [AtomGit](https://atomgit.com/Cantian) / [Gitee](https://gitee.com/openeuler/cantian) |
 | 10 | 开源小满EasyXMen安全车控操作系统 | 操作系统 | [AtomGit](https://atomgit.com/easyxmen) |
 | 11 | EasyDarwin | 软件工具 | [GitHub](https://github.com/easydarwin) |
-| 12 | OpenLET全尺寸人形真机数据集 | 具身智能 | [AtomGit](https://atomgit.com/lejurobot) |
+| 12 | OpenLET全尺寸人形真机数据集 | 具身智能 | [AtomGit](https://atomgit.com/OpenLET) |
 
 ### 已归档项目
 
